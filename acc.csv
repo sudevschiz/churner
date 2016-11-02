@@ -1,0 +1,13 @@
+Trial Description	AUC	F1 Score	Accuracy
+NA omitted - Benchmark 1	0.5006	0.95	90.77%
+NA omitted - Benchmark 2	0.6752	0.64	67.66%
+NA omitted - Outlier truncated - Benchmark 1	0.5005	0.95	91.20%
+NA omitted - Outlier truncated - Benchmark 2	0.6605	0.62	66.13%
+NA imputed - Benchmark 1	0.5047	0.95	90.70%
+NA imputed - Outlier truncated - Benchmark 2	0.6675	0.64	66.70%
+NA imputed - Outlier truncated - Benchmark 1	0.5041	0.95	90.70%
+NA imputed - Benchmark 2	0.6665	0.63	66.80%
+Feature Engineered RF	0.6805	0.65	68.07%
+Feature Engineered XgB nrounds = 300	0.6554	0.64	65.55%
+Feature Engineered XgB nrounds = 10000	0.6495	0.64	64.93%
+Ensembling models	0.6837	0.72	60.40%
