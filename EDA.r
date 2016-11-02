@@ -81,3 +81,4 @@ corrplot(cor(given_data[,-(1:2)]),type = "upper")
 #More corerlation analysis after features have been created
 ggplot(given_data,aes(asOfDate,status)) + geom_smooth()
 
+
